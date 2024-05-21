@@ -150,7 +150,7 @@ function Body() {
   };
 
   return (
-    // parte de laura
+    // parte de nico
     <div>
       <div className="list">ROSTER</div>
       <div className="search-bar">
